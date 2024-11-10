@@ -13,6 +13,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 |       242       | [Valid Anagram](leetcode_easy/ValidAnagram.java)                      |        -        |        -         |   _Easy_   |
 |       268       | [Missing Numbers - Solution 1](leetcode_easy/MissingNumbers.java)     |        -        |        -         |   _Easy_   |
 |       268       | [Missing Numbers - Solution 2](leetcode_easy/MissingNumbersSol2.java) |        -        |        -         |   _Easy_   |
+|       283       | [Move Zeroes](leetcode_easy/MoveZeroes.java)                          |      O(n)       |       O(1)       |   _Easy_   |
 |       412       | [Fizz Buzz](leetcode_easy/FizzBuzz.java)                              |        -        |        -         |   _Easy_   |
 |       485       | [Max Consecutive Ones](leetcode_easy/MaxConsecutiveOnes.java)         |      O(n)       |       O(1)       |   _Easy_   |
 
