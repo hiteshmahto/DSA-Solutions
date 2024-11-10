@@ -1,6 +1,6 @@
 // 167. Two Sum II - Input Array is Sorted
 
-package medium;
+package leetcode_medium;
 
 import java.util.Arrays;
 

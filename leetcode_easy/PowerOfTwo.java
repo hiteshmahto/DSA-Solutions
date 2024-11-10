@@ -1,8 +1,8 @@
-package easy;
+package leetcode_easy;
 
 import java.util.Scanner;
 
-public class IsPowerOfTwo {
+public class PowerOfTwo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter n: ");

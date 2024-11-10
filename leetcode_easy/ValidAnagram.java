@@ -1,6 +1,6 @@
 // 242. Valid Anagram
 
-package easy;
+package leetcode_easy;
 
 public class ValidAnagram {
     public static void main(String[] args) {
