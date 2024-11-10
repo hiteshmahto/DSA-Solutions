@@ -7,8 +7,9 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 | Question Number | Question Title & Solution                                             | Time Complexity | Space Complexity | Difficulty |
 | :-------------: | :-------------------------------------------------------------------- | :-------------: | :--------------: | :--------: |
 |       001       | [Two Sum](leetcode_easy/TwoSum.java)                                  |        -        |        -         |   _Easy_   |
+|       136       | [Single Number](leetcode_easy/SingleNumber.java)                      |      O(n)       |       O(1)       |   _Easy_   |
 |       167       | [Two Sum II - Input Array is Sorted](leetcode_medium/TwoSumII.java)   |        -        |        -         |  _Medium_  |
-|       231       | [Power of Two](leetcode_easy/PowerOfTwo.java)                         |        -        |        -         |   _Easy_   |
+|       231       | [Power of Two](leetcode_easy/PowerOfTwo.java)                         |      O(1)       |       O(1)       |   _Easy_   |
 |       242       | [Valid Anagram](leetcode_easy/ValidAnagram.java)                      |        -        |        -         |   _Easy_   |
 |       268       | [Missing Numbers - Solution 1](leetcode_easy/MissingNumbers.java)     |        -        |        -         |   _Easy_   |
 |       268       | [Missing Numbers - Solution 2](leetcode_easy/MissingNumbersSol2.java) |        -        |        -         |   _Easy_   |
