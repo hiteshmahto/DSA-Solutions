@@ -9,6 +9,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 |       001       | [Two Sum](leetcode_easy/TwoSum.java)                                  |        -        |        -         |   _Easy_   |
 |       136       | [Single Number](leetcode_easy/SingleNumber.java)                      |      O(n)       |       O(1)       |   _Easy_   |
 |       167       | [Two Sum II - Input Array is Sorted](leetcode_medium/TwoSumII.java)   |        -        |        -         |  _Medium_  |
+|       189       | [Rotate Array - Solution 1](leetcode_medium/RotateArray.java)         |      O(2n)      |       O(n)       |  _Medium_  |
 |       231       | [Power of Two](leetcode_easy/PowerOfTwo.java)                         |      O(1)       |       O(1)       |   _Easy_   |
 |       242       | [Valid Anagram](leetcode_easy/ValidAnagram.java)                      |        -        |        -         |   _Easy_   |
 |       268       | [Missing Numbers - Solution 1](leetcode_easy/MissingNumbers.java)     |        -        |        -         |   _Easy_   |
@@ -16,6 +17,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 |       283       | [Move Zeroes](leetcode_easy/MoveZeroes.java)                          |      O(n)       |       O(1)       |   _Easy_   |
 |       412       | [Fizz Buzz](leetcode_easy/FizzBuzz.java)                              |        -        |        -         |   _Easy_   |
 |       485       | [Max Consecutive Ones](leetcode_easy/MaxConsecutiveOnes.java)         |      O(n)       |       O(1)       |   _Easy_   |
+|        -        | []()                                                                  |        -        |        -         |    _-_     |
 
 > **Note**: The list will be updated regularly as I add more solutions.
 
@@ -23,9 +25,11 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 
 ## GeeksforGeeks Solutions
 
-| Question Title & Solution                    | Time Complexity | Space Complexity | Difficulty |
-| :------------------------------------------- | :-------------: | :--------------: | :--------: |
-| [Title of Problem 1](path/to/solution1.java) |        -        |        -         |   _Easy_   |
+| Question Title & Solution                                            | Time Complexity | Space Complexity | Difficulty |
+| :------------------------------------------------------------------- | :-------------: | :--------------: | :--------: |
+| [Largest Element in Array](GeeksforGeeks/LargestElementinArray.java) |      O(n)       |       O(1)       |  _Basic_   |
+| [Second Largest in Array](GeeksforGeeks/SecondLargest.java)          |      O(n)       |       O(1)       |   _Easy_   |
+| []()                                                                 |        -        |        -         |    _-_     |
 
 > **Note**: The list will be updated regularly as I add more solutions.
 
