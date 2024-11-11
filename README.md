@@ -4,20 +4,22 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 
 ## LeetCode Solutions
 
-| Question Number | Question Title & Solution                                             | Time Complexity | Space Complexity | Difficulty |
-| :-------------: | :-------------------------------------------------------------------- | :-------------: | :--------------: | :--------: |
-|       001       | [Two Sum](leetcode_easy/TwoSum.java)                                  |        -        |        -         |   _Easy_   |
-|       136       | [Single Number](leetcode_easy/SingleNumber.java)                      |      O(n)       |       O(1)       |   _Easy_   |
-|       167       | [Two Sum II - Input Array is Sorted](leetcode_medium/TwoSumII.java)   |        -        |        -         |  _Medium_  |
-|       189       | [Rotate Array - Solution 1](leetcode_medium/RotateArray.java)         |      O(2n)      |       O(n)       |  _Medium_  |
-|       231       | [Power of Two](leetcode_easy/PowerOfTwo.java)                         |      O(1)       |       O(1)       |   _Easy_   |
-|       242       | [Valid Anagram](leetcode_easy/ValidAnagram.java)                      |        -        |        -         |   _Easy_   |
-|       268       | [Missing Numbers - Solution 1](leetcode_easy/MissingNumbers.java)     |        -        |        -         |   _Easy_   |
-|       268       | [Missing Numbers - Solution 2](leetcode_easy/MissingNumbersSol2.java) |        -        |        -         |   _Easy_   |
-|       283       | [Move Zeroes](leetcode_easy/MoveZeroes.java)                          |      O(n)       |       O(1)       |   _Easy_   |
-|       412       | [Fizz Buzz](leetcode_easy/FizzBuzz.java)                              |        -        |        -         |   _Easy_   |
-|       485       | [Max Consecutive Ones](leetcode_easy/MaxConsecutiveOnes.java)         |      O(n)       |       O(1)       |   _Easy_   |
-|        -        | []()                                                                  |        -        |        -         |    _-_     |
+| Question Number | Question Title & Solution                                                                 | Time Complexity | Space Complexity | Difficulty |
+| :-------------: | :---------------------------------------------------------------------------------------- | :-------------: | :--------------: | :--------: |
+|      0001       | [Two Sum](leetcode_easy/TwoSum.java)                                                      |        -        |        -         |   _Easy_   |
+|      0026       | [Remove Duplicates from Sorted Array](leetcode_easy/RemoveDuplicatesfromSortedArray.java) |      O(n)       |       O(1)       |   _Easy_   |
+|      0136       | [Single Number](leetcode_easy/SingleNumber.java)                                          |      O(n)       |       O(1)       |   _Easy_   |
+|      0167       | [Two Sum II - Input Array is Sorted](leetcode_medium/TwoSumII.java)                       |        -        |        -         |  _Medium_  |
+|      0189       | [Rotate Array - Solution 1](leetcode_medium/RotateArray.java)                             |      O(2n)      |       O(n)       |  _Medium_  |
+|      0231       | [Power of Two](leetcode_easy/PowerOfTwo.java)                                             |      O(1)       |       O(1)       |   _Easy_   |
+|      0242       | [Valid Anagram](leetcode_easy/ValidAnagram.java)                                          |        -        |        -         |   _Easy_   |
+|      0268       | [Missing Numbers - Solution 1](leetcode_easy/MissingNumbers.java)                         |        -        |        -         |   _Easy_   |
+|      0268       | [Missing Numbers - Solution 2](leetcode_easy/MissingNumbersSol2.java)                     |        -        |        -         |   _Easy_   |
+|      0283       | [Move Zeroes](leetcode_easy/MoveZeroes.java)                                              |      O(n)       |       O(1)       |   _Easy_   |
+|      0412       | [Fizz Buzz](leetcode_easy/FizzBuzz.java)                                                  |        -        |        -         |   _Easy_   |
+|      0485       | [Max Consecutive Ones](leetcode_easy/MaxConsecutiveOnes.java)                             |      O(n)       |       O(1)       |   _Easy_   |
+|      1752       | [Check if Array Is Sorted and Rotated](leetcode_easy/ArrayIsSortedandRotated.java)        |      O(n)       |       O(1)       |   _Easy_   |
+|        -        | []()                                                                                      |        -        |        -         |    _-_     |
 
 > **Note**: The list will be updated regularly as I add more solutions.
 
