@@ -12,6 +12,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 |      0075       | [Sort Colors - Solution 2](leetcode_medium/SortColorsSol2.java)                           |      O(n)       |       O(1)       |  _Medium_  |
 |      0136       | [Single Number](leetcode_easy/SingleNumber.java)                                          |      O(n)       |       O(1)       |   _Easy_   |
 |      0167       | [Two Sum II - Input Array is Sorted](leetcode_medium/TwoSumII.java)                       |        -        |        -         |  _Medium_  |
+|      0169       | [Majority Element](leetcode_easy/MajorityElement.java)                                    |      O(n)       |       O(1)       |   _Easy_   |
 |      0189       | [Rotate Array - Solution 1](leetcode_medium/RotateArray.java)                             |      O(2n)      |       O(n)       |  _Medium_  |
 |      0231       | [Power of Two](leetcode_easy/PowerOfTwo.java)                                             |      O(1)       |       O(1)       |   _Easy_   |
 |      0242       | [Valid Anagram](leetcode_easy/ValidAnagram.java)                                          |        -        |        -         |   _Easy_   |
