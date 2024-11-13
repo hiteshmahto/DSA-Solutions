@@ -8,6 +8,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 | :-------------: | :---------------------------------------------------------------------------------------- | :-------------: | :--------------: | :--------: |
 |      0001       | [Two Sum](leetcode_easy/TwoSum.java)                                                      |        -        |        -         |   _Easy_   |
 |      0026       | [Remove Duplicates from Sorted Array](leetcode_easy/RemoveDuplicatesfromSortedArray.java) |      O(n)       |       O(1)       |   _Easy_   |
+|      0053       | [Maximum Subarray - Kadane's Algorithm](leetcode_medium/MaximumSubarray.java)             |      O(n)       |       O(1)       |  _Medium_  |
 |      0075       | [Sort Colors - Solution 1](leetcode_medium/SortColorsSol1.java)                           |      O(2n)      |       O(1)       |  _Medium_  |
 |      0075       | [Sort Colors - Solution 2](leetcode_medium/SortColorsSol2.java)                           |      O(n)       |       O(1)       |  _Medium_  |
 |      0136       | [Single Number](leetcode_easy/SingleNumber.java)                                          |      O(n)       |       O(1)       |   _Easy_   |
