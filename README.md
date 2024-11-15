@@ -12,6 +12,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 |      0053       | [Maximum Subarray - Kadane's Algorithm](leetcode_medium/MaximumSubarray.java)             |      O(n)       |       O(1)       |  _Medium_  |
 |      0075       | [Sort Colors - Solution 1](leetcode_medium/SortColorsSol1.java)                           |      O(2n)      |       O(1)       |  _Medium_  |
 |      0075       | [Sort Colors - Solution 2](leetcode_medium/SortColorsSol2.java)                           |      O(n)       |       O(1)       |  _Medium_  |
+|      0128       | [longest Consecutive Sequence]()                                                          |        -        |        -         |    _-_     |
 |      0136       | [Single Number](leetcode_easy/SingleNumber.java)                                          |      O(n)       |       O(1)       |   _Easy_   |
 |      0167       | [Two Sum II - Input Array is Sorted](leetcode_medium/TwoSumII.java)                       |        -        |        -         |  _Medium_  |
 |      0169       | [Majority Element](leetcode_easy/MajorityElement.java)                                    |      O(n)       |       O(1)       |   _Easy_   |
