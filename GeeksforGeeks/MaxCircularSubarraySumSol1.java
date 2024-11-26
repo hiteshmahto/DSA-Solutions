@@ -2,6 +2,9 @@
 // Given an array of integers arr[] in a circular fashion. Find the maximum subarray sum that we can get if we assume the array to be circular.
 
 // ---- TIME LIMIT EXCEEDED ----
+// ---- BRUTE FORCE METHOD ----
+// TC - O(n^2)
+// SC - O(1)
 
 package GeeksforGeeks;
 

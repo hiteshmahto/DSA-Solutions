@@ -12,8 +12,8 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 |      0053       | [Maximum Subarray - Kadane's Algorithm](leetcode_medium/MaximumSubarray.java)             |      O(n)       |       O(1)       |  _Medium_  |
 |      0075       | [Sort Colors - Solution 1](leetcode_medium/SortColorsSol1.java)                           |      O(2n)      |       O(1)       |  _Medium_  |
 |      0075       | [Sort Colors - Solution 2](leetcode_medium/SortColorsSol2.java)                           |      O(n)       |       O(1)       |  _Medium_  |
-|      0128       | [longest Consecutive Sequence]()                                                          |        -        |        -         |    _-_     |
 |      0136       | [Single Number](leetcode_easy/SingleNumber.java)                                          |      O(n)       |       O(1)       |   _Easy_   |
+|      0152       | [Maximum Product Subarray](leetcode_medium/MaximumProductSubarray.java)                   |      O(n)       |       O(1)       |  _Medium_  |
 |      0167       | [Two Sum II - Input Array is Sorted](leetcode_medium/TwoSumII.java)                       |        -        |        -         |  _Medium_  |
 |      0169       | [Majority Element](leetcode_easy/MajorityElement.java)                                    |      O(n)       |       O(1)       |   _Easy_   |
 |      0189       | [Rotate Array - Solution 1](leetcode_medium/RotateArray.java)                             |      O(2n)      |       O(n)       |  _Medium_  |
@@ -24,6 +24,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 |      0283       | [Move Zeroes](leetcode_easy/MoveZeroes.java)                                              |      O(n)       |       O(1)       |   _Easy_   |
 |      0412       | [Fizz Buzz](leetcode_easy/FizzBuzz.java)                                                  |        -        |        -         |   _Easy_   |
 |      0485       | [Max Consecutive Ones](leetcode_easy/MaxConsecutiveOnes.java)                             |      O(n)       |       O(1)       |   _Easy_   |
+|      0918       | [Maximum Sum Circular Subarray](leetcode_medium/MaximumSumCircularSubarray.java)          |      O(3n)      |       O(1)       |  _Medium_  |
 |      1752       | [Check if Array Is Sorted and Rotated](leetcode_easy/ArrayIsSortedandRotated.java)        |      O(n)       |       O(1)       |   _Easy_   |
 |      2149       | [Rearrange Array Elements by Sign](leetcode_medium/RearrangeArrayElementsbySign.java)     |      O(n)       |       O(n)       |  _Medium_  |
 |        -        | []()                                                                                      |        -        |        -         |    _-_     |
@@ -34,11 +35,14 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 
 ## GeeksforGeeks Solutions
 
-| Question Title & Solution                                            | Time Complexity | Space Complexity | Difficulty |
-| :------------------------------------------------------------------- | :-------------: | :--------------: | :--------: |
-| [Largest Element in Array](GeeksforGeeks/LargestElementinArray.java) |      O(n)       |       O(1)       |  _Basic_   |
-| [Second Largest in Array](GeeksforGeeks/SecondLargest.java)          |      O(n)       |       O(1)       |   _Easy_   |
-| []()                                                                 |        -        |        -         |    _-_     |
+| Question Title & Solution                                                                     | Time Complexity | Space Complexity | Difficulty |
+| :-------------------------------------------------------------------------------------------- | :-------------: | :--------------: | :--------: |
+| [Largest Element in Array](GeeksforGeeks/LargestElementinArray.java)                          |      O(n)       |       O(1)       |  _Basic_   |
+| [Second Largest in Array](GeeksforGeeks/SecondLargest.java)                                   |      O(n)       |       O(1)       |   _Easy_   |
+| [Maximum Product Subarray](GeeksforGeeks/MaximumProductSubarray.java)                         |      O(n)       |       O(1)       |  _Medium_  |
+| [Max Circular Subarray Sum - Brute Force](GeeksforGeeks/MaxCircularSubarraySumSol1.java)      |     O(n^2)      |       O(1)       |   _Hard_   |
+| [Max Circular Subarray Sum - Optimal Approach](GeeksforGeeks/MaxCircularSubarraySumSol2.java) |      O(3n)      |       O(1)       |   _Hard_   |
+| [](GeeksforGeeks/)                                                                            |        -        |        -         |    _-_     |
 
 > **Note**: The list will be updated regularly as I add more solutions.
 
