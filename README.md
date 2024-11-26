@@ -35,14 +35,17 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 
 ## GeeksforGeeks Solutions
 
-| Question Title & Solution                                                                     | Time Complexity | Space Complexity | Difficulty |
-| :-------------------------------------------------------------------------------------------- | :-------------: | :--------------: | :--------: |
-| [Largest Element in Array](GeeksforGeeks/LargestElementinArray.java)                          |      O(n)       |       O(1)       |  _Basic_   |
-| [Second Largest in Array](GeeksforGeeks/SecondLargest.java)                                   |      O(n)       |       O(1)       |   _Easy_   |
-| [Maximum Product Subarray](GeeksforGeeks/MaximumProductSubarray.java)                         |      O(n)       |       O(1)       |  _Medium_  |
-| [Max Circular Subarray Sum - Brute Force](GeeksforGeeks/MaxCircularSubarraySumSol1.java)      |     O(n^2)      |       O(1)       |   _Hard_   |
-| [Max Circular Subarray Sum - Optimal Approach](GeeksforGeeks/MaxCircularSubarraySumSol2.java) |      O(3n)      |       O(1)       |   _Hard_   |
-| [](GeeksforGeeks/)                                                                            |        -        |        -         |    _-_     |
+| S.No | Question Title & Solution                                                                     | Time Complexity | Space Complexity | Difficulty |
+| :--: | :-------------------------------------------------------------------------------------------- | :-------------: | :--------------: | :--------: |
+|  1.  | [Largest Element in Array](GeeksforGeeks/LargestElementinArray.java)                          |      O(n)       |       O(1)       |  _Basic_   |
+|  2.  | [Second Largest in Array](GeeksforGeeks/SecondLargest.java)                                   |      O(n)       |       O(1)       |   _Easy_   |
+|  3.  | [Maximum Product Subarray](GeeksforGeeks/MaximumProductSubarray.java)                         |      O(n)       |       O(1)       |  _Medium_  |
+|  4.  | [Max Circular Subarray Sum - Brute Force](GeeksforGeeks/MaxCircularSubarraySumSol1.java)      |     O(n^2)      |       O(1)       |   _Hard_   |
+|  5.  | [Max Circular Subarray Sum - Optimal Approach](GeeksforGeeks/MaxCircularSubarraySumSol2.java) |      O(3n)      |       O(1)       |   _Hard_   |
+|  6.  | [Kadane's Algorithm](GeeksforGeeks/KadaneAlgorithm.java)                                      |      O(n)       |       O(1)       |  _Medium_  |
+|  7.  | [Rotate Array - Brute Force](GeeksforGeeks/RotateArraySol1.java)                              |    O(n + d)     |       O(d)       |  _Medium_  |
+|  8.  | [Rotate Array - Optimal Approach](GeeksforGeeks/RotateArraySol2.java)                         |      O(2n)      |       O(1)       |  _Medium_  |
+|      | [](GeeksforGeeks/)                                                                            |        -        |        -         |    _-_     |
 
 > **Note**: The list will be updated regularly as I add more solutions.
 
