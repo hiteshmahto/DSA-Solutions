@@ -48,6 +48,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 |  8.  | [Rotate Array - Optimal Approach](GeeksforGeeks/RotateArraySol2.java)                         |      O(2n)      |       O(1)       |  _Medium_  |
 |  9.  | [Smallest Positive Missing Number](GeeksforGeeks/SmallestPositiveMissingNumber.java)          |      O(3n)      |       O(1)       |  _Medium_  |
 | 10.  | [Move All Zeroes to End](GeeksforGeeks/MoveAllZeroesToEnd.java)                               |      O(n)       |       O(1)       |   _Easy_   |
+| 11.  | [Implement Atoi](GeeksforGeeks/ImplementAtoi.java)                                            |        -        |        -         |  _Medium_  |
 |      | [](GeeksforGeeks/)                                                                            |        -        |        -         |    _-_     |
 
 > **Note**: The list will be updated regularly as I add more solutions.
