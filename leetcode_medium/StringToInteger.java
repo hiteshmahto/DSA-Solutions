@@ -1,14 +1,11 @@
-// Implement Atoi
-// Given a string s, the objective is to convert it into integer format without utilizing any built-in functions. Refer the below steps to know about atoi() function.
+// 8. String to Integer (atoi)
+// Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer.
 
-// TC - O(n)
-// SC - O(1)
+package leetcode_medium;
 
-package GeeksforGeeks;
-
-public class ImplementAtoi {
+public class StringToInteger {
     public static void main(String[] args) {
-        String s =   "-0012gfg4";
+        String s = "words and 987";
         System.out.println(myAtoi(s));
     }
 
@@ -27,10 +24,9 @@ public class ImplementAtoi {
             if(s.charAt(i) == ' ' || !Character.isDigit(s.charAt(i))) break;
             ans = ans * 10 + (s.charAt(i) - '0');
             if(sign == -1 && (-1 * ans < Integer.MIN_VALUE)) return Integer.MIN_VALUE;
-            if(sign == 1 && (ans > Integer.MAX_VALUE)) return Integer.MAX_VALUE;
+            if(sign == 1 && ans > Integer.MAX_VALUE) return Integer.MAX_VALUE;
             i++;
         }
-
         return (int)(sign * ans);
     }
 }
