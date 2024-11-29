@@ -12,6 +12,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 |      0031       | [Next Permutation](leetcode_medium/NextPermutation.java)                                  |      O(3n)      |       O(1)       |  _Medium_  |
 |      0041       | [First Missing Positive](leetcode_hard/FirstMissingPositive.java)                         |      O(3n)      |       O(1)       |   _Hard_   |
 |      0053       | [Maximum Subarray - Kadane's Algorithm](leetcode_medium/MaximumSubarray.java)             |      O(n)       |       O(1)       |  _Medium_  |
+|      0067       | [Add Binary](leetcode_easy/AddBinary.java)                                                |      O(3L)      |       O(L)       |   _Easy_   |
 |      0075       | [Sort Colors - Solution 1](leetcode_medium/SortColorsSol1.java)                           |      O(2n)      |       O(1)       |  _Medium_  |
 |      0075       | [Sort Colors - Solution 2](leetcode_medium/SortColorsSol2.java)                           |      O(n)       |       O(1)       |  _Medium_  |
 |      0136       | [Single Number](leetcode_easy/SingleNumber.java)                                          |      O(n)       |       O(1)       |   _Easy_   |
@@ -54,6 +55,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 | 11.  | [Implement Atoi](GeeksforGeeks/ImplementAtoi.java)                                            |      O(n)       |       O(1)       |  _Medium_  |
 | 12.  | [Last Moment Before All Ants Fall Out of a Plank](GeeksforGeeks/GetLastMoment.java)           |      O(n)       |       O(1)       |  _Medium_  |
 | 13.  | [Repetitive Addition Of Digits](GeeksforGeeks/RepetitiveAdditionOfDigits.java)                |      O(1)       |       O(1)       |  _Basic_   |
+| 14.  | [Add Binary Strings](GeeksforGeeks/AddBinaryStrings.java)                                     |      O(3L)      |       O(L)       |  _Medium_  |
 |      | [](GeeksforGeeks/)                                                                            |        -        |        -         |    _-_     |
 
 > **Note**: The list will be updated regularly as I add more solutions.
