@@ -57,6 +57,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 | 13.  | [Repetitive Addition Of Digits](GeeksforGeeks/RepetitiveAdditionOfDigits.java)                |      O(1)       |       O(1)       |  _Basic_   |
 | 14.  | [Add Binary Strings](GeeksforGeeks/AddBinaryStrings.java)                                     |      O(3L)      |       O(L)       |  _Medium_  |
 | 15.  | [Anagram](GeeksforGeeks/Anagram.java)                                                         |      O(2n)      |       O(1)       |   _Easy_   |
+| 16.  | [Non Repeating Character](GeeksforGeeks/NonRepeatingCharacter.java)                           |        -        |        -         |    _-_     |
 |      | [](GeeksforGeeks/)                                                                            |        -        |        -         |    _-_     |
 
 > **Note**: The list will be updated regularly as I add more solutions.
