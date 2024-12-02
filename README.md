@@ -26,6 +26,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 |      0268       | [Missing Numbers - Solution 1](leetcode_easy/MissingNumbers.java)                         |        -        |        -         |   _Easy_   |
 |      0268       | [Missing Numbers - Solution 2](leetcode_easy/MissingNumbersSol2.java)                     |        -        |        -         |   _Easy_   |
 |      0283       | [Move Zeroes](leetcode_easy/MoveZeroes.java)                                              |      O(n)       |       O(1)       |   _Easy_   |
+|      0387       | [First Unique Character In A String](leetcode_easy/FirstUniqueCharacterString.java)       |      O(2n)      |       O(n)       |   _Easy_   |
 |      0412       | [Fizz Buzz](leetcode_easy/FizzBuzz.java)                                                  |        -        |        -         |   _Easy_   |
 |      0485       | [Max Consecutive Ones](leetcode_easy/MaxConsecutiveOnes.java)                             |      O(n)       |       O(1)       |   _Easy_   |
 |      0918       | [Maximum Sum Circular Subarray](leetcode_medium/MaximumSumCircularSubarray.java)          |      O(3n)      |       O(1)       |  _Medium_  |
@@ -57,7 +58,7 @@ Welcome to the **DSA Solutions** repository! Here, you’ll find my continually 
 | 13.  | [Repetitive Addition Of Digits](GeeksforGeeks/RepetitiveAdditionOfDigits.java)                |      O(1)       |       O(1)       |  _Basic_   |
 | 14.  | [Add Binary Strings](GeeksforGeeks/AddBinaryStrings.java)                                     |      O(3L)      |       O(L)       |  _Medium_  |
 | 15.  | [Anagram](GeeksforGeeks/Anagram.java)                                                         |      O(2n)      |       O(1)       |   _Easy_   |
-| 16.  | [Non Repeating Character](GeeksforGeeks/NonRepeatingCharacter.java)                           |        -        |        -         |    _-_     |
+| 16.  | [Non Repeating Character](GeeksforGeeks/NonRepeatingCharacter.java)                           |      O(2n)      |       O(n)       |   _Easy_   |
 |      | [](GeeksforGeeks/)                                                                            |        -        |        -         |    _-_     |
 
 > **Note**: The list will be updated regularly as I add more solutions.
